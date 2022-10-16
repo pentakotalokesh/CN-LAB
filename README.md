@@ -19,5 +19,5 @@
 
 <a name="Devices"></a>
 # Network devices
- [Refrence]: Geeks for Geeks.
- [link]:https://www.geeksforgeeks.org/network-devices-hub-repeater-bridge-switch-router-gateways/
+ Refrence: Geeks for Geeks.\n
+ link:https://www.geeksforgeeks.org/network-devices-hub-repeater-bridge-switch-router-gateways/
