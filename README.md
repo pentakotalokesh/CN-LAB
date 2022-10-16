@@ -25,13 +25,13 @@
 
 <a name="datalinklayer"></a>
 # Datalink Layer Framing Methods
-  There are two types of Datalink Layer Framing Methods. \
+  There are two types of Datalink Layer Framing Methods.
   1. Character stuffing
   2. Bit stuffing
   <a name="cs"></a>
   ## Character Stuffing
     ```
-    ###Algorithm
+    ### Algorithm
     1. SET i =0,j=0
     2. READ a
     3. SET b[j++] = 'd'
@@ -55,4 +55,4 @@
     14. SET b[j++] = 't'
     15. SET b[j++] = 'x'
     16. PRINT b.
-    
+    ```
