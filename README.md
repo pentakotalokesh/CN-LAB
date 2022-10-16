@@ -16,3 +16,8 @@
 9. [Dijkstra‘s algorithm to compute the Shortest path](#datalinklayer)
 10. [Distance vector routing algorithm](#datalinklayer)
 11. [Broadcast tree by taking subnet of hosts](#datalinklayer)
+
+<a href="Devices"></a>
+# Network devices
+Refrence: Geeks for Geeks
+link:https://www.geeksforgeeks.org/network-devices-hub-repeater-bridge-switch-router-gateways/
