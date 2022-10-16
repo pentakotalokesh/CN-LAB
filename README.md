@@ -30,8 +30,6 @@
   2. Bit stuffing
   <a name="cs"></a>
   ## Character Stuffing
-  <pre>
-  <code>
      Algorithm
     1. SET i =0,j=0
     2. READ a
@@ -56,5 +54,3 @@
     14. SET b[j++] = 't'
     15. SET b[j++] = 'x'
     16. PRINT b.
-    </code>
-    </pre>
